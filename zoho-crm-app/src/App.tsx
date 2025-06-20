@@ -1269,13 +1269,35 @@ const App: React.FC = () => {
                     
                     <div className="w-full lg:w-1/2 flex items-center justify-center">
   {feature.image && feature.image !== "/image_video" ? (
+  feature.image.endsWith(".mp4") ? (
+    <video
+  src={feature.image}
+  autoPlay
+  loop
+  muted
+  playsInline
+  className="max-h-80 max-w-full rounded-xl shadow-lg bg-white p-4"
+  style={{ border: "1px solid #ddd" }}
+>
+  Votre navigateur ne supporte pas la lecture vidéo.
+</video>
+  ) : (
     <img
       src={feature.image}
       alt={feature.title}
-      className="max-h-80 max-w-full rounded-xl shadow-lg object-contain bg-white p-4"
-      style={{ border: "1px solid #ddd" }}
+      className="object-contain"
+      style={{
+        height: 'calc(100vh - 20px)',
+        maxHeight: 'calc(100vh - 20px)',
+        width: 'auto',
+        maxWidth: '100%',
+        display: 'block',
+        margin: '10px auto'
+      }}
     />
-  ) : null}
+    
+  )
+) : null}
 </div>
                   </div>
                 </div>
