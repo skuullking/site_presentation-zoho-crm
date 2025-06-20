@@ -239,70 +239,70 @@ const App: React.FC = () => {
           title: "Gestion des transactions",
           description: "Suivi détaillé du cycle de vente avec étapes personnalisables",
           content: "Suivi détaillé du cycle de vente avec étapes personnalisables. Calcul automatique des probabilités de fermeture. Gestion des devis, factures et commandes intégrées. Alerte sur les échéances critiques. Tableau de bord temps réel des performances commerciales.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/gestion-des-transaction .svg"
         },
         {
           id: "gestion-comptes",
           title: "Gestion des comptes",
           description: "Profils clients complets avec historique des interactions",
           content: "Profils clients complets avec historique des interactions. Hiérarchisation des comptes stratégiques. Suivi des multiples opportunités par compte. Analyse de la rentabilité client. Gestion des contacts multiples par organisation.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/gestion-des-comptes.svg"
         },
         {
           id: "gestion-contacts",
           title: "Gestion des contacts",
           description: "Base de données centralisée avec enrichissement automatique",
           content: "Base de données centralisée des contacts avec informations complètes. Historique des communications et interactions. Segmentation avancée selon critères personnalisés. Détection automatique des doublons. Enrichissement automatique des données contact.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/gestion-des-contacts.svg"
         },
         {
           id: "regles-workflow",
           title: "Règles de workflow",
           description: "Automatisation des processus métier selon déclencheurs prédéfinis",
           content: "Automatisation des processus métier selon déclencheurs prédéfinis. Actions automatiques : envoi d'emails, attribution de tâches, mise à jour de champs. Conditions complexes avec logique conditionnelle. Approbations automatiques selon hiérarchie. Notifications en temps réel des étapes franchies.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/regles-de-workflow.svg"
         },
         {
           id: "macros",
           title: "Macros",
           description: "Séquences d'actions préprogrammées pour tâches répétitives",
           content: "Séquences d'actions préprogrammées pour tâches répétitives. Exécution en un clic de processus complexes. Personnalisation selon profils utilisateurs. Macro conditionnelles selon contexte. Historique d'exécution et audit trail.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/macros.svg"
         },
         {
           id: "regles-affectation",
           title: "Règles d'affectation",
           description: "Distribution automatique selon critères multiples",
           content: "Distribution automatique des leads selon critères géographiques, sectoriels ou de compétences. Équilibrage de charge entre commerciaux. Rotation automatique des affectations. Gestion des congés et disponibilités. Override manuel pour cas spéciaux.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/regles-daffectation.svg"
         },
         {
           id: "portails-partenaires",
           title: "Portails partenaires",
           description: "Interface dédiée pour les partenaires de distribution",
           content: "Interface dédiée pour les partenaires de distribution. Gestion des opportunités partagées. Suivi des performances partenaires. Matériel marketing et documentation accessible. Système de coregistration des prospects.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/portails-partenaires.svg"
         },
         {
           id: "previsions",
           title: "Prévisions",
           description: "Calculs automatiques basés sur l'historique et le pipeline",
           content: "Calculs automatiques basés sur l'historique et le pipeline. Modèles prédictifs ajustables selon saisonnalité. Comparaison objectifs et réalisations. Prévisions par équipe, produit, région. Alertes sur écarts significatifs.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/prevision.svg"
         },
         {
           id: "analyse-ventes",
           title: "Analyse des ventes",
           description: "Tableaux de bord interactifs temps réel",
           content: "Tableaux de bord interactifs temps réel. Métriques de performance individuelles et collectives. Analyse des tendances et cycles de vente. Identification des goulots d'étranglement. Benchmarking concurrentiel.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/analyse-des-ventes.svg"
         },
         {
           id: "applications-mobiles",
           title: "Applications mobiles",
           description: "CRM complet accessible offline/online",
           content: "CRM complet accessible offline/online. Synchronisation automatique des données. Interface optimisée tactile. Géolocalisation pour les visites clients. Scanner de cartes de visite intégrées.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-des-vente/app-mobiles.webp"
         }
       ]
     },
@@ -316,63 +316,63 @@ const App: React.FC = () => {
           title: "Blueprint",
           description: "Modélisation visuelle des processus de vente",
           content: "Modélisation visuelle des processus de vente étape par étape. Validation obligatoire avant passage étape suivante. Personnalisation selon types d'opportunités. Règles métier appliquées automatiquement. Traçabilité complète du processus.",
-          image: "/zoho-crm-app/src/image_video/processus-de-vente/blueprint.svg"
+          image: "/image_video/processus-de-vente/blueprint.svg"
         },
         {
           id: "notation-leads",
           title: "Notation des leads",
           description: "Système de scoring automatique basé sur critères comportementaux",
           content: "Système de scoring automatique basé sur critères comportementaux et explicites. Algorithmes machine learning pour optimisation continue. Seuils de qualification personnalisables. Historique d'évolution des scores. Intégration avec outils marketing automation.",
-          image: "/zoho-crm-app/src/image_video/processus-de-vente/notion-des-leads.svg"
+          image: "/image_video/processus-de-vente/notion-des-leads.svg"
         },
         {
           id: "processus-approbation",
           title: "Processus d'approbation",
           description: "Workflows d'approbation hiérarchiques configurables",
           content: "Workflows d'approbation hiérarchiques configurables. Délégation automatique en cas d'absence. Historique des approbations avec horodatage. Notifications multi-canaux des demandes. Escalade automatique selon les délais.",
-          image: "/zoho-crm-app/src/image_video/processus-de-vente/processus-dapprobation.svg"
+          image: "/image_video/processus-de-vente/processus-dapprobation.svg"
         },
         {
           id: "regles-affectation-processus",
           title: "Règles d'affectation",
           description: "Logique complexe d'attribution basée sur compétences",
           content: "Logique complexe d'attribution basée sur compétences, disponibilité, charge de travail. Rééquilibrage automatique des portefeuilles. Gestion des transferts avec historique. Critères géographiques et sectoriels. Backup automatique pour continuité service.",
-          image: "/zoho-crm-app/src/image_video/processus-de-vente/regle-daffectation.svg"
+          image: "/image_video/processus-de-vente/regle-daffectation.svg"
         },
         {
           id: "regles-remontee",
           title: "Règles de remontée de dossier",
           description: "Escalade automatique selon critères de risque",
           content: "Escalade automatique selon critères de risque ou opportunité. Alertes dirigées vers management. Seuils configurables par type de transaction. Historique des escalades avec justifications. Délais de traitement surveillés.",
-          image: "/zoho-crm-app/src/image_video/processus-de-vente/regle-de-remonte-de-dossier.svg"
+          image: "/image_video/processus-de-vente/regle-de-remonte-de-dossier.svg"
         },
         {
           id: "processus-verification",
           title: "Processus de vérification",
           description: "Contrôles qualité automatiques sur données saisies",
           content: "Contrôles qualité automatiques sur données saisies. Validation croisée avec sources externes. Alertes sur incohérences détectées. Workflow de correction avec attribution. Audit trail des modifications.",
-          image: "/zoho-crm-app/src/image_video/processus-de-vente/processus-de-verification.svg"
+          image: "/image_video/processus-de-vente/processus-de-verification.svg"
         },
         {
           id: "regles-validation",
           title: "Règles de validation",
           description: "Contrôles de cohérence avant sauvegarde",
           content: "Contrôles de cohérence avant sauvegarde. Champs obligatoires selon le contexte. Formats de données standardisés. Messages d'erreur personnalisés. Validation en temps réel pendant saisie.",
-          image: "/zoho-crm-app/src/image_video/processus-de-vente/regle-de-validation.svg"
+          image: "/image_video/processus-de-vente/regle-de-validation.svg"
         },
         {
           id: "analyseur-emails",
           title: "Analyseur d'e-mails",
           description: "Traitement automatique des emails entrants/sortants",
           content: "Traitement automatique des emails entrants/sortants. Extraction d'informations clients automatique. Liaison automatique aux enregistrements CRM. Analyse sentiment et priorité. Archivage et recherche avancée.",
-          image: "/zoho-crm-app/src/image_video/processus-de-vente/analyseur-demail.svg"
+          image: "/image_video/processus-de-vente/analyseur-demail.svg"
         },
         {
           id: "disposition-multi-pages",
           title: "Disposition multi-pages",
           description: "Interface utilisateur personnalisable par profil",
           content: "Interface utilisateur personnalisable par profil. Onglets contextuels selon métier. Mise en page adaptative responsive. Widgets drag-and-drop. Vues rapides et détaillées configurables.",
-          image: "/zoho-crm-app/src/image_video/processus-de-vente/disposition-multi-pages.svg"
+          image: "/image_video/processus-de-vente/disposition-multi-pages.svg"
         }
       ]
     },
@@ -386,77 +386,70 @@ const App: React.FC = () => {
           title: "Email",
           description: "Intégration complète messagerie professionnelle",
           content: "Intégration complète messagerie professionnelle. Templates personnalisables avec merge fields. Tracking ouverture/clic automatique. Planification d'envoi différé. Gestion des réponses automatiques.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/email.svg"
         },
         {
           id: "telephonie",
           title: "Téléphonie",
           description: "Intégration CTI click-to-call",
           content: "Intégration CTI click-to-call. Enregistrement automatique des appels. Écran pop-up avec fiche client. Transfert d'appels intelligents. Statistiques d'appels détaillées.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/telephonie.svg"
         },
         {
           id: "reseaux-sociaux",
           title: "Réseaux sociaux",
           description: "Monitoring des mentions marque/produits",
           content: "Monitoring des mentions marque/produits. Engagement client sur les plateformes sociales. Publication programmée multi-plateformes. Analyse du sentiment des interactions. Lead generation via les réseaux sociaux.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/resaux-sociaux.svg"
         },
         {
           id: "sms",
           title: "SMS",
           description: "Campagnes SMS marketing ciblées",
           content: "Campagnes SMS marketing ciblées. Messages transactionnels automatiques. Réponses SMS traitées automatiquement. Opt-in/opt-out géré automatiquement. Analytique de délivrabilité.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/"
         },
         {
           id: "tchat-direct",
           title: "Tchat en direct",
           description: "Widget de chat intégrable site web",
           content: "Widget de chat intégrable site web. Routage intelligent vers agents disponibles. Historique des conversations centralisées. Chat-bots pour première qualification. Transfert vers appel téléphonique.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/tchat-en-direct.svg"
         },
         {
           id: "formulaires-web",
           title: "Formulaires Web",
           description: "Générateur de formulaires drag-and-drop",
           content: "Générateur de formulaires drag-and-drop. Intégration automatique CRM. Validation en temps réel. Formulaires multi-étapes conditionnels. Protection anti-spam intégrée.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/formulaire-web.svg"
         },
         {
           id: "portails-libre-service",
           title: "Portails en libre-service",
           description: "Interface client pour consultation des données",
           content: "Interface client pour consultation des données. Soumission de tickets/demandes. Base de connaissances intégrée. Téléchargement de documents sécurisés. Suivi statut des demandes.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/portails-en-libre-service.svg"
         },
         {
           id: "conferences-web",
           title: "Conférences Web",
           description: "Intégration outils visioconférence",
           content: "Intégration outils visioconférence. Planification depuis le CRM. Enregistrement automatique des réunions. Suivi participation et engagement. Analyse post-réunion automatique.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/conference-web.svg"
         },
         {
           id: "contexte-communication",
           title: "Contexte de communication",
           description: "Historique unifié toutes interactions",
           content: "Historique unifié toutes interactions. Vue chronologique des échanges. Contexte complet avant contact. Tags et catégorisation automatique. Recherche conversationnelle avancée.",
-          image: "/api/placeholder/600/400"
-        },
-        {
-          id: "collaboration-equipe-omni",
-          title: "Collaboration en équipe",
-          description: "Partage d'informations entre collègues",
-          content: "Partage d'informations entre collègues. Attribution de tâches collaboratives. Discussion contextuelle sur les opportunités. Notification temps réel des mises à jour. Gestion des permissions granulaires.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/contexte-de-comunication.svg"
         },
         {
           id: "notifications-temps-reel",
           title: "Notifications en temps réel",
           description: "Alertes push sur événements critiques",
           content: "Alertes push sur événements critiques. Personnalisation selon préférences utilisateur. Multi-canal : email, SMS, mobile, desktop. Escalade selon niveau d'urgence. Accusé de réception des notifications.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/omnicanal/notifications-en-temps-reel.svg"
         }
       ]
     },
@@ -466,88 +459,81 @@ const App: React.FC = () => {
       description: "Analysez en profondeur vos performances commerciales",
       subFeatures: [
         {
-          id: "pourquoi-analyses",
-          title: "Pourquoi effectuer des analyses ?",
-          description: "Compréhension des tendances marché et comportements clients",
-          content: "Compréhension des tendances marché et comportements clients. Identification des opportunités d'amélioration des processus. Mesure ROI des actions commerciales et marketing. Prédiction des performances futures. Optimisation de l'allocation des ressources.",
-          image: "/api/placeholder/600/400"
-        },
-        {
           id: "rapports-personnalisables",
           title: "Rapports personnalisables",
           description: "Constructeur de rapports drag-and-drop",
           content: "Constructeur de rapports drag-and-drop. Filtres avancés multi-critères. Planification automatique d'envoi. Formats d'export multiples. Partage sécurisé avec parties prenantes.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/rapports-personalisable.svg"
         },
         {
           id: "graphiques",
           title: "Graphiques",
           description: "Visualisations interactives temps réel",
           content: "Visualisations interactives temps réel. Types multiples : barres, lignes, secteurs, cartes. Drill-down pour analyse détaillée. Comparaisons période sur période. Export haute résolution pour présentations.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/graphiques.svg"
         },
         {
           id: "detecteur-anomalies",
           title: "Détecteur d'anomalies",
           description: "Algorithmes IA pour détection automatique d'écarts",
           content: "Algorithmes IA pour détection automatique d'écarts. Alertes proactives sur comportements atypiques. Analyse des causes racines suggérées. Historique des anomalies détectées. Apprentissage continu des modèles.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/detecteur-danomalies.svg"
         },
         {
           id: "cohortes",
           title: "Cohortes",
           description: "Analyse comportementale par groupes clients",
           content: "Analyse comportementale par groupes clients. Suivi évolution dans le temps. Segmentation basée sur caractéristiques communes. Comparaison performance entre cohortes. Identification des facteurs de succès.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/cohortes.svg"
         },
         {
           id: "quadrants",
           title: "Quadrants",
           description: "Matrices d'analyse stratégique",
           content: "Matrices d'analyse stratégique (BCG, efforts/impact). Positionnement automatique selon métriques. Identification des opportunités prioritaires. Simulation de scénarios. Recommandations d'actions automatiques.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/quadrants.svg"
         },
         {
           id: "kpi",
           title: "KPI (indicateurs clés de performance)",
           description: "Tableaux de bord exécutifs personnalisés",
           content: "Tableaux de bord exécutifs personnalisés. Métriques temps réel avec objectifs. Alertes sur dépassement de seuils. Benchmarking sectoriel. Historique d'évolution des performances.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/kpi.svg"
         },
         {
           id: "comparateur",
           title: "Comparateur",
           description: "Analyses comparatives multi-dimensionnelles",
           content: "Analyses comparatives multi-dimensionnelles. Période sur période, équipe sur équipe. Identification des meilleures pratiques. Écarts de performance expliqués. Recommandations d'amélioration ciblées.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/comparateur.svg"
         },
         {
           id: "entonnoirs",
           title: "Entonnoirs",
           description: "Visualisation du pipeline de vente",
           content: "Visualisation du pipeline de vente. Taux de conversion par étape. Identification des goulots d'étranglement. Prédiction des fermetures. Optimisation du processus de vente.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/entonnoirs.svg"
         },
         {
           id: "indicateur-objectif",
           title: "Indicateur d'objectif",
           description: "Suivi automatique vs objectifs fixés",
           content: "Suivi automatique vs objectifs fixés. Prédiction d'atteinte des objectifs. Décomposition par période/équipe/produit. Alertes sur risques de non-atteinte. Ajustement dynamique des objectifs.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/indicateur-dobjectif.svg"
         },
         {
           id: "cartes-zones",
           title: "Cartes de zones",
           description: "Visualisation géographique des performances",
           content: "Visualisation géographique des performances. Territoire mapping avec métriques. Analyse de densité client/prospect. Optimisation des tournées commerciales. Identification des zones sous-exploitées.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/cartes-zones.svg"
         },
         {
           id: "capacites",
           title: "Capacités",
           description: "Évaluation de la charge de travail des équipes",
           content: "Évaluation de la charge de travail des équipes. Optimisation allocation ressources. Planification capacité future. Identification des besoins en recrutement. Analyse productivité individuelle.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/analyse-des-ventes/capacités.svg"
         }
       ]
     },
@@ -561,77 +547,77 @@ const App: React.FC = () => {
           title: "Finance",
           description: "Calculs automatiques de rentabilité",
           content: "Calculs automatiques de rentabilité. Suivi des conditions commerciales. Analyse de marge par transaction. Gestion des budgets par commercial. Prévisions de trésorerie basées pipeline.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/finance.mp4"
         },
         {
           id: "cpq",
           title: "CPQ (Configure/Price/Quote)",
           description: "Configurateur produit guidé",
           content: "Configurateur produit guidé. Calcul automatique des prix avec règles business. Génération de devis professionnels. Approbations tarifaires automatisées. Suivi des versions de devis.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/cpq.svg"
         },
         {
           id: "bibliotheque-documents",
           title: "Bibliothèque de documents",
           description: "Centralisation des supports de vente",
           content: "Centralisation des supports de vente. Recherche avancée par tags/catégories. Contrôle des versions et droits d'accès. Templates personnalisables. Statistiques d'utilisation des documents.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/bibliotheque-de-document.svg"
         },
         {
           id: "portails",
           title: "Portails",
           description: "Espaces clients personnalisés",
           content: "Espaces clients personnalisés. Accès aux informations compte sécurisé. Soumission de demandes/réclamations. Téléchargement de documents autorisés. Suivi des interactions.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/portails.svg"
         },
         {
           id: "assistants",
           title: "Assistants",
           description: "Intelligence artificielle pour recommandations",
           content: "Intelligence artificielle pour recommandations. Analyse prédictive des opportunités. Suggestions d'actions contextuelles. Automatisation de tâches répétitives. Apprentissage des préférences utilisateur.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/assistants.svg"
         },
         {
           id: "calendrier",
           title: "Calendrier",
           description: "Synchronisation avec agendas personnels",
           content: "Synchronisation avec agendas personnels. Rendez-vous depuis le CRM. Invitations automatiques avec détails. Gestion des disponibilités équipe. Rappels et notifications automatiques.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/calendrier.mp4"
         },
         {
           id: "salesinbox",
           title: "SalesInbox",
           description: "Centralisation des communications commerciales",
           content: "Centralisation des communications commerciales. Priorisation automatique des messages. Actions rapides depuis l'interface. Intégration avec workflow de vente. Suivi des réponses requises.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/salesinbox.mp4"
         },
         {
           id: "zoho-meeting",
           title: "Intégration de Zoho Meeting",
           description: "Lancement des réunions directement depuis CRM",
           content: "Lancement des réunions directement depuis CRM. Planification avec invitation automatique. Enregistrement et partage post-réunion. Suivi participation et engagement. Notes de réunion centralisées.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/integration-zoho-meeting.svg"
         },
         {
           id: "google-office",
           title: "Google Workspace et Office 365",
           description: "Synchronisation bidirectionnelle complète",
           content: "Synchronisation bidirectionnelle complète. Partage de documents en temps réel. Calendriers et contacts unifiés. Authentification unique (SSO). Workflow collaboratifs intégrés.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/"
         },
         {
           id: "alertes-notifications",
           title: "Alertes et notifications",
           description: "Système d'alertes intelligent multi-niveau",
           content: "Système d'alertes intelligent multi-niveau. Personnalisation selon profil utilisateur. Escalade automatique selon urgence. Accusé de réception requis. Historique des notifications envoyées.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/"
         },
         {
           id: "mobile-aide",
           title: "Mobile",
           description: "Application native iOS/Android",
           content: "Application native iOS/Android. Synchronisation offline/online. Interface tactile optimisée. Géolocalisation pour les visites. Signature électronique mobile.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/aide-a-la-vente/app-mobile.webp"
         }
       ]
     },
@@ -645,49 +631,49 @@ const App: React.FC = () => {
           title: "Prévisions",
           description: "Modèles prédictifs basés IA",
           content: "Modèles prédictifs basés IA. Ajustement selon saisonnalité. Prévisions par segment/produit/région. Scénarios optimiste/pessimiste/probable. Comparaison avec les réalisations historiques.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/performances-de-vente/prevision.svg"
         },
         {
           id: "gestion-secteurs",
           title: "Gestion des secteurs",
           description: "Découpage territorial optimisé",
           content: "Découpage territorial optimisé. Attribution automatique selon critères. Rééquilibrage périodique des zones. Analyse de performance par secteur. Gestion des recouvrements géographiques.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/performances-de-vente/gestion-des-secteurs.svg"
         },
         {
           id: "devises-multiples",
           title: "Devises multiples",
           description: "Support multi-devises avec conversion temps réel",
           content: "Support multi-devises avec conversion temps réel. Taux de change historiques. Rapports dans devise de référence. Gestion des fluctuations de change. Couverture de risque automatique.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/performances-de-vente/devices-multiples.svg"
         },
         {
           id: "prediction-ia",
           title: "Prédiction exploitant l'intelligence artificielle",
           description: "Algorithmes machine learning avancés",
           content: "Algorithmes machine learning avancés. Analyse des patterns historiques. Facteurs d'influence automatiquement identifiés. Modèles auto-apprenants. Précision prédictive mesurée.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/performances-de-vente/prediction-exploitant-inteligence-artificielle.svg"
         },
         {
           id: "analyses-perf",
           title: "Analyses",
           description: "Suite complète d'outils analytiques",
           content: "Suite complète d'outils analytiques. Analyses descriptives, prédictives, prescriptives. Segmentation avancée clients/prospects. Identification des tendances émergentes. Recommandations d'actions automatiques.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/performances-de-vente/analyses.svg"
         },
         {
           id: "suivi-visiteurs",
           title: "Suivi des visiteurs",
           description: "Tracking comportement sur site web",
           content: "Tracking comportement sur site web. Identification des visiteurs connus. Scoring d'engagement digital. Alertes sur activité anormale. Intégration avec nurturing automation.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/performances-de-vente/suivie-des-visiteur.svg"
         },
         {
           id: "motivator-ventes",
           title: "Motivator ventes prédictives",
           description: "Gamification des objectifs commerciaux",
           content: "Gamification des objectifs commerciaux. Classements et défis d'équipe. Récompenses basées performance. Motivation par la compétition. Suivi de l'engagement équipe.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/performances-de-vente/motivator.svg"
         },
         
       ]
@@ -701,91 +687,91 @@ const App: React.FC = () => {
           title: "Assistante commerciale",
           description: "IA conversationnelle pour support",
           content: "IA conversationnelle pour support. Réponses aux questions fréquentes. Guidance dans les processus. Automatisation de tâches simples. Apprentissage continu des interactions.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/assistante-commerciale.mp4"
         },
         {
           id: "predictions",
           title: "Prédictions",
           description: "Modèles prédictifs sur mesure",
           content: "Modèles prédictifs sur mesure. Prédiction de churn client. Probabilité de conversion leads. Optimisation du timing des actions. Anticipation des besoins clients.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/prediction.svg"
         },
         {
           id: "detection-anomalies",
           title: "Détection d'anomalies",
           description: "Surveillance automatique des écarts",
           content: "Surveillance automatique des écarts. Alertes proactives temps réel. Analyse des causes potentielles. Recommandations correctives. Apprentissage des patterns normaux.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/detection-danomalies.gif"
         },
         {
           id: "zia-emails",
           title: "Zia pour les e-mails",
           description: "IA pour optimisation email marketing",
           content: "IA pour optimisation email marketing. Analyse sentiment des réponses. Optimisation objet et contenu. Prédiction du taux d'ouverture. Personnalisation automatique.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/zia-pour-les-email.svg"
         },
         {
           id: "automatisation-intelligente",
           title: "Automatisation intelligente",
           description: "Workflows adaptatifs selon contexte",
           content: "Workflows adaptatifs selon contexte. Apprentissage des meilleures pratiques. Optimisation continue des processus. Automatisation prédictive. Intervention humaine sur exceptions.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/automatisation-inteligente.svg"
         },
         {
           id: "alerte-concurrence",
           title: "Alerte à la concurrence",
           description: "Monitoring mentions concurrents",
           content: "Monitoring mentions concurrents. Analyse comparative positionnement. Alertes sur mouvements concurrentiels. Intelligence économique automatisée. Veille tarifaire continue.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/alerte-a-la-concurence.svg"
         },
         {
           id: "enrichissement-donnees",
           title: "Enrichissement des données",
           description: "Complétion automatique des profils",
           content: "Complétion automatique des profils. Sources externes fiables intégrées. Validation et mise à jour continue. Détection et fusion des doublons. Standardisation des formats.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/enrichissement-des-donnes.svg"
         },
         {
           id: "recommandation",
           title: "Recommandation",
           description: "Suggestions produits basées IA",
           content: "Suggestions produits basées IA. Recommandations d'actions commerciales. Cross-sell et up-sell automatiques. Personnalisation selon l'histoire. Mesure efficacité des recommandations.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/recommendation.svg"
         },
         {
           id: "generateur-predictions",
           title: "Générateur de prédictions",
           description: "Outil de création de modèles prédictifs",
           content: "Outil de création de modèles prédictifs. Interface no-code pour business users. Validation automatique des modèles. Déploiement en production automatisé. Monitoring performance continue.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/generateur-de-prediction.svg"
         },
         {
           id: "suggestion-affectation",
           title: "Suggestion d'affectation",
           description: "Recommandations d'attribution optimales",
           content: "Recommandations d'attribution optimales. Analyse des compétences requises. Équilibrage automatique des charges. Prise en compte des préférences. Historique des performances d'affectation.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/suggegestion-daffectation.svg"
         },
         {
           id: "suggestion-workflows",
           title: "Suggestion de workflows",
           description: "Recommandations d'automatisation",
           content: "Recommandations d'automatisation. Identification des processus optimisables. Templates de workflows prêts à l'emploi. Personnalisation selon secteur d'activité. Mesure ROI des automatisations.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/suggestion-workflow.svg"
         },
         {
           id: "best-time-contact",
           title: "Best Time to Contact",
           description: "Analyse des patterns de réponse",
           content: "Analyse des patterns de réponse. Prédiction du meilleur moment de contact. Optimisation selon profil client. Planning automatique des contacts. Mesure d'efficacité par créneau.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/best_time_to_contact.svg"
         },
         {
           id: "zia-vision",
           title: "Zia Vision",
           description: "Reconnaissance visuelle de documents",
           content: "Reconnaissance visuelle de documents. Extraction automatique d'informations. Traitement des cartes de visite. Analyse d'images produits. Classification automatique des documents.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/zia/zia-vision.svg"
         }
       ]
     }, 
@@ -799,91 +785,91 @@ const App: React.FC = () => {
           title: "Dispositions multi-pages",
           description: "Interface modulaire personnalisable",
           content: "Interface modulaire personnalisable. Organisation par onglets métiers. Drag-and-drop des composants. Responsive design automatique. Sauvegarde des préférences utilisateur.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/disposition-multi-pages.svg"
         },
         {
           id: "composants-personnalises",
           title: "Composants personnalisés",
           description: "Développement de widgets sur mesure",
           content: "Développement de widgets sur mesure. Bibliothèque de composants réutilisables. API pour intégrations externes. Framework de développement fourni. Marketplace de composants tiers.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/composants-personalisés.svg"
         },
         {
           id: "champs-conditionnels",
           title: "Champs conditionnels",
           description: "Affichage dynamique selon les saisies",
           content: "Affichage dynamique selon les saisies. Logique métier complexe supportée. Validation croisée entre champs. Calculs automatiques en temps réel. Masquage/affichage intelligent.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/champs-conditionnels.svg"
         },
         {
           id: "regles-validation-perso",
           title: "Règles de validation",
           description: "Contrôles métiers personnalisés",
           content: "Contrôles métiers personnalisés. Messages d'erreurs contextuelles. Validation en temps réel. Règles composées complexes. Gestion des exceptions métier.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/regle-de-validation.svg"
         },
         {
           id: "vues-filtres",
           title: "Vues et filtres",
           description: "Création de vues métier personnalisées",
           content: "Création de vues métier personnalisées. Filtres avancés sauvegardables. Partage de vues entre utilisateurs. Colonnes configurables dynamiquement. Export des vues filtrées.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/vue-et-filtres.svg"
         },
         {
           id: "suivi-historique-liste",
           title: "Suivi de l'historique de liste de sélection",
           description: "Traçabilité des modifications de listes",
           content: "Traçabilité des modifications de listes. Audit des changements de valeurs. Restauration de versions antérieures. Notification des mises à jour. Gestion des références obsolètes.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/suivi-de-lhistoire-de-liste-selection.svg"
         },
         {
           id: "sous-formulaires",
           title: "Sous-formulaires",
           description: "Formulaires imbriqués configurables",
           content: "Formulaires imbriqués configurables. Relations parent-enfant gérées. Validation en cascade. Interface maître-détail. Calculs agrégés automatiques.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/sous-formulaire.svg"
         },
         {
           id: "association",
           title: "Association",
           description: "Relations entre entités personnalisables",
           content: "Relations entre entités personnalisables. Cardinalités multiples supportées. Navigation relationnelle intuitive. Intégrité référentielle maintenue. Vues relationnelles dynamiques.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/association.svg"
         },
         {
           id: "copier-personnalisation",
           title: "Copier la personnalisation",
           description: "Réplication des configurations entre environnements",
           content: "Réplication des configurations entre environnements. Templates de personnalisation réutilisables. Déploiement automatisé des modifications. Contrôle de version des configurations. Rollback de personnalisations.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/copier-la-personnalisation.svg"
         },
         {
           id: "champs-utilisateur",
           title: "Champs Utilisateur",
           description: "Création de champs métier spécifiques",
           content: "Création de champs métier spécifiques. Types de données variés supportés. Calculs et formules personnalisés. Validation métier intégrée. Intégration complète dans l'interface.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/champs-utilisateur.svg"
         },
         {
           id: "traductions",
           title: "Traductions",
           description: "Interface multilingue complète",
           content: "Interface multilingue complète. Traduction des libellés personnalisés. Localisation selon préférences utilisateur. Gestion centralisée des langues. Support de la bidirectionnalité.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/traductions.svg"
         },
         {
           id: "multidevise",
           title: "Multidevise",
           description: "Gestion native des devises multiples",
           content: "Gestion native des devises multiples. Conversion automatique temps réel. Taux de change historiques conservés. Rapports dans devise de choix. Protection contre fluctuations.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/multi-device.svg"
         },
         {
           id: "fonction-personnalisee",
           title: "Fonction personnalisée",
           description: "Développement de logique métier spécifique",
           content: "Développement de logique métier spécifique. Langage de script intégré. Déclencheurs sur événements CRM. Intégration avec API externes. Débogage et tests facilités.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/personalisation/fonction-personalisée.svg"
         }
       ]
     },
@@ -897,77 +883,77 @@ const App: React.FC = () => {
           title: "Segmentation des clients",
           description: "Critères de segmentation avancés",
           content: "Critères de segmentation avancés. Segmentation dynamique temps réel. Analyse RFM automatique. Personas clients automatisés. Micro-segmentation comportementale.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/segmentation-clients.svg"
         },
         {
           id: "maturation-leads",
           title: "Maturation des leads",
           description: "Workflows de nurturing automatisés",
           content: "Workflows de nurturing automatisés. Scoring progressif des prospects. Contenu personnalisé selon profil. Timing optimal d'engagement. Transfert automatique vers vente.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/maturationdes leads.svg"
         },
         {
           id: "formulaires-web-marketing",
           title: "Formulaires Web",
           description: "Générateur non-code de formulaires",
           content: "Générateur non-code de formulaires. Intégration directe CRM. Formulaires adaptatifs intelligents. Protection anti-spam avancée. A/B testing automatique.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/formulaires-web.svg"
         },
         {
           id: "scanner-cartes-visite",
           title: "Scanner de cartes de visite",
           description: "Reconnaissance OCR haute précision",
           content: "Reconnaissance OCR haute précision. Extraction automatique des données. Création contact instantanée. Géolocalisation des événements. Intégration avec événements calendaires.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/scanner-des-cartes-de-visites.svg"
         },
         {
           id: "attribution-marketing",
           title: "Attribution marketing",
           description: "Tracking multi-touch des conversions",
           content: "Tracking multi-touch des conversions. Attribution selon modèles variés. ROI par canal marketing. Analyse du parcours client complet. Optimisation budget marketing.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/attribution-marketing.svg"
         },
         {
           id: "campagnes-google",
           title: "Campagnes publicitaires Google",
           description: "Intégration native Google Ads",
           content: "Intégration native Google Ads. Synchronisation des audiences CRM. Tracking conversions automatique. Optimisation enchères basée CRM. Rapports de performance unifiés.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/campagnes-publicitaires-google.svg"
         },
         {
           id: "gestion-evenements",
           title: "Gestion des événements",
           description: "Planification événements complets",
           content: "Planification événements complets. Inscription et gestion des participants. Check-in mobile sur site. Suivi du ROI événementiel. Lead scoring post-événement.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/gestion-des-evenements.svg"
         },
         {
           id: "campagnes-email",
           title: "Campagnes par e-mail",
           description: "Éditeur drag-and-drop professionnel",
           content: "Éditeur drag-and-drop professionnel. Personnalisation dynamique poussée. Tests A/B automatisés. Optimisation heure d'envoi IA. Analyse engagée détaillée.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/campagnes-par-email.svg"
         },
         {
           id: "campagnes-sondages",
           title: "Campagnes de sondages",
           description: "Création de questionnaires avancés",
           content: "Création de questionnaires avancés. Distribution multi-canal automatique. Analyse statistique des réponses. Segmentation basée réponses. Suivi de satisfaction continue.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/campagnes-de-sondages.svg"
         },
         {
           id: "sous-campagnes",
           title: "Sous-campagnes",
           description: "Organisation hiérarchique des campagnes",
           content: "Organisation hiérarchique des campagnes. Attribution budget par sous-campagne. Comparaison performance relative. Workflows spécifiques par segment. Reporting consolidé.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/sous-campagnes.svg"
         },
         {
           id: "analyse-marketing",
           title: "Analyse marketing",
           description: "Attribution multi-touch avancée",
           content: "Attribution multi-touch avancée. Analyse du mix marketing optimal. Mesure impact sur pipeline. Calcul du customer lifetime value. Optimisation continue des campagnes.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/automatisation-marketing/analyse-marketing.svg"
         }
       ]
     },
@@ -981,42 +967,42 @@ const App: React.FC = () => {
           title: "Flux",
           description: "Timeline d'activité collaborative",
           content: "Timeline d'activité collaborative. Commentaires contextuels sur enregistrements. Partage de mises à jour importantes. Notification des parties prenantes. Historique des interactions équipe.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/collaboration-en-equipe/flux.svg"
         },
         {
           id: "tchat",
           title: "Tchat",
           description: "Messagerie instantanée intégrée",
           content: "Messagerie instantanée intégrée. Conversations de groupe par projet. Partage de fichiers sécurisé. Historique des conversations. Statuts de présence temps réel.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/collaboration-en-equipe/tchat.svg"
         },
         {
           id: "notes",
           title: "Notes",
           description: "Prise de notes collaborative",
           content: "Prise de notes collaborative. Partage et coédition temps réel. Organisation par projet/client. Recherche full-text avancée. Synchronisation mobile/desktop.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/collaboration-en-equipe/notes.svg"
         },
         {
           id: "balises",
           title: "Balises",
           description: "Système de tags collaboratif",
           content: "Système de tags collaboratif. Catégorisation flexible des contenus. Recherche par tags combinés. Nuage de tags dynamique. Permissions de création contrôlées.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/collaboration-en-equipe/balises.svg"
         },
         {
           id: "groupes",
           title: "Groupes",
           description: "Organisation d'équipes projets",
           content: "Organisation d'équipes projets. Permissions granulaires par groupe. Espaces de travail dédiés. Communication interne sécurisée. Workflows d'approbation groupe.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/collaboration-en-equipe/groupes.svg"
         },
         {
           id: "gestion-projets",
           title: "Gestion de projets",
           description: "Planification et suivi projets clients",
           content: "Planification et suivi projets clients. Attribution de tâches aux équipiers. Diagrammes de Gantt intégrés. Suivi temps et budget. Rapports d'avancement automatiques.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/collaboration-en-equipe/gestion-de-projets.svg"
         }
       ]
     },
@@ -1030,28 +1016,28 @@ const App: React.FC = () => {
           title: "CRM mobile",
           description: "Application native complète",
           content: "Application native complète. Synchronisation offline/online intelligente. Interface optimisée tactile. Géolocalisation pour les visites clients. Notifications push personnalisées.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/app-mobile/crm-mobile.webp"
         },
         {
           id: "analytique-mobile",
           title: "Analytique mobile",
           description: "Tableaux de bord mobiles interactifs",
           content: "Tableaux de bord mobiles interactifs. Métriques temps réel déportées. Alertes sur écarts de performance. Drill-down tactile intuitif. Export et partage facilités.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/app-mobile/analytique-mobile.webp"
         },
         {
           id: "route-iq-mobile",
           title: "Route IQ Mobile",
           description: "Optimisation des tournées commerciales",
           content: "Optimisation des tournées commerciales. Navigation GPS intégrée. Planification intelligente des visites. Suivi kilomètres et temps. Reporting d'activité terrain.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/app-mobile/routesiq-mobile.webp"
         },
         {
           id: "lecteur-carte-mobile",
           title: "Lecteur de carte mobile",
           description: "Scan cartes de visite haute qualité",
           content: "Scan cartes de visite haute qualité. Reconnaissance OCR multilingue. Création contact instantanée. Géolocalisation automatique. Intégration événements calendaires.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/app-mobile/lecteur-carte.mp4"
         }
       ]
     },
@@ -1065,49 +1051,49 @@ const App: React.FC = () => {
           title: "Scripts client",
           description: "Développement JavaScript côté client",
           content: "Développement JavaScript côté client. Personnalisation interface utilisateur avancée. Événements et triggers personnalisés. Validation métier en temps réel. Intégration avec API externes tierces.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/outil-de-developpeur/scripts-client.svg"
         },
         {
           id: "api-rest",
           title: "API REST",
           description: "Interface de programmation complète et documentée",
           content: "Interface de programmation complète et documentée. Authentification OAuth sécurisée. Endpoints CRUD pour toutes entités. Webhooks pour les notifications temps réel. Rate limiting et quotas configurables.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/outil-de-developpeur/api-rest.svg"
         },
         {
           id: "fonctions-deluge",
           title: "Fonctions de Deluge",
           description: "Langage de script propriétaire puissant",
           content: "Langage de script propriétaire puissant. Logique métier complexe implémentable. Intégration avec services externes. Automatisation de workflows avancés. Gestion d'erreurs et logging intégrés.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/outil-de-developpeur/fonction-deluge.svg"
         },
         {
           id: "widgets",
           title: "Widgets",
           description: "Composants interface réutilisables",
           content: "Composants interface réutilisables. Framework de développement fourni. Marketplace de widgets tiers. Intégration drag-and-drop. Paramétrage utilisateur final.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/outil-de-developpeur/widgets.svg"
         },
         {
           id: "sdk-mobile-web",
           title: "SDK mobile et Web",
           description: "Kits de développement complets",
           content: "Kits de développement complets. Documentation et exemples fournis. Support iOS, Android, Web. Authentification et sécurité gérées. APIs natives optimisées performance.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/outil-de-developpeur/sdk-mobile-et-web.webp"
         },
         {
           id: "edition-developpeur",
           title: "Édition pour développeur",
           description: "Environnement de développement intégré",
           content: "Environnement de développement intégré. Éditeur de code avec coloration syntaxique. Débogueur intégré avec breakpoints. Gestionnaire de versions inclus. Tests unitaires automatisés.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/outil-de-developpeur/edition-pour-developpeur.svg"
         },
         {
           id: "sandbox",
           title: "Sandbox",
           description: "Environnement de test isolé et sécurisé",
           content: "Environnement de test isolé et sécurisé. Réplication données de production anonymisées. Tests de montée de version. Validation personnalisations avant déploiement. Accès développeurs contrôlé.",
-          image: "/api/placeholder/600/400"
+          image: "/image_video/outil-de-developpeur/sandbox.svg"
         }
       ]
     }
@@ -1281,26 +1267,16 @@ const App: React.FC = () => {
                       </div>
                     </div>
                     
-                    <div className="w-full lg:w-1/2">
-                      <div className="relative">
-                        <div className="bg-gradient-to-br from-indigo-100 to-purple-100 rounded-2xl p-8 shadow-xl">
-                          <div className="bg-white rounded-xl p-8 shadow-lg">
-                            <div className="w-full h-80 bg-gradient-to-br from-gray-100 to-gray-200 rounded-xl flex items-center justify-center border-2 border-dashed border-gray-300">
-                              <div className="text-center">
-                                <div className="w-20 h-20 bg-indigo-500 rounded-2xl mx-auto mb-6 flex items-center justify-center shadow-lg">
-                                  <span className="text-white text-3xl font-bold">
-                                    {feature.title.charAt(0)}
-                                  </span>
-                                </div>
-                                <h3 className="text-2xl font-bold text-gray-700 mb-2">{feature.title}</h3>
-                                <p className="text-gray-500">Interface de démonstration</p>
-                                <div className="mt-4 text-sm text-gray-400">Basé sur la documentation officielle</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                    <div className="w-full lg:w-1/2 flex items-center justify-center">
+  {feature.image && feature.image !== "/image_video" ? (
+    <img
+      src={feature.image}
+      alt={feature.title}
+      className="max-h-80 max-w-full rounded-xl shadow-lg object-contain bg-white p-4"
+      style={{ border: "1px solid #ddd" }}
+    />
+  ) : null}
+</div>
                   </div>
                 </div>
               </section>
