@@ -253,7 +253,7 @@ const App: React.FC = () => {
           title: "Gestion des contacts",
           description: "Base de données centralisée avec enrichissement automatique",
           content: "Base de données centralisée des contacts avec informations complètes. Historique des communications et interactions. Segmentation avancée selon critères personnalisés. Détection automatique des doublons. Enrichissement automatique des données contact.",
-          image: "/image_video/automatisation-des-vente/gestion-des-contacts.svg"
+          image: "/image_video/automatisation-des-vente/gestion-des-contacts.png"
         },
         {
           id: "regles-workflow",
@@ -1267,20 +1267,27 @@ const App: React.FC = () => {
                       </div>
                     </div>
                     
-                    <div className="w-full lg:w-1/2 flex items-center justify-center">
+                     <div className="w-full lg:w-1/2 flex items-center justify-center">
   {feature.image && feature.image !== "/image_video" ? (
   feature.image.endsWith(".mp4") ? (
     <video
-  src={feature.image}
-  autoPlay
-  loop
-  muted
-  playsInline
-  className="max-h-80 max-w-full rounded-xl shadow-lg bg-white p-4"
-  style={{ border: "1px solid #ddd" }}
->
-  Votre navigateur ne supporte pas la lecture vidéo.
-</video>
+      src={feature.image}
+      autoPlay
+      loop
+      muted
+      playsInline
+      className="object-contain"
+      style={{
+        height: 'calc(100vh - 20px)',
+        maxHeight: 'calc(100vh - 20px)',
+        width: 'auto',
+        maxWidth: '100%',
+        display: 'block',
+        margin: '10px auto'
+      }}
+    >
+      Votre navigateur ne supporte pas la lecture vidéo.
+    </video>
   ) : (
     <img
       src={feature.image}
