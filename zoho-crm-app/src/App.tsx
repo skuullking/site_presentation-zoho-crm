@@ -1112,7 +1112,7 @@ const App: React.FC = () => {
       <header className="fixed top-0 left-0 right-0 h-[80px] bg-white border-b border-gray-300 z-50 shadow-md">
         <div className="w-full px-6 h-full flex items-center justify-between">
           <div className="flex items-center w-full">
-            <div className="text-3xl font-bold text-indigo-600 mr-12">Zoho CRM</div>
+            <div className="text-3xl font-bold text-indigo-600 mr-12"><img src="/yeddir_logo.svg" alt="logo yeddir" /></div>
             <nav className="flex flex-1">
               {mainFeatures.map((feature) => (
                 <div
@@ -1226,8 +1226,8 @@ const App: React.FC = () => {
 
         {/* Contenu principal */}
         <main className={`flex-1 bg-gray-50 transition-all duration-300 ${isSidebarOpen ? 'ml-[180px]' : 'ml-[50px]'}`}>
-          {/* Section Hero */}
-          <section className="relative py-20 bg-gradient-to-br from-indigo-600 via-purple-600 to-blue-600 text-white">
+         {/* Section Hero */}
+<section className="relative py-20 bg-gradient-to-br from-indigo-700 via-indigo-600 to-indigo-800 text-white">
             <div className="container mx-auto px-6">
               <div className="text-center max-w-4xl mx-auto">
                 <span className="inline-block bg-white/20 text-white px-4 py-2 rounded-full text-sm font-medium mb-6 backdrop-blur-sm">
